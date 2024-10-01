@@ -12,7 +12,7 @@ Questa applicazione permette di cercare libri in base a una categoria specifica 
 
 ## Screenshot
 
-![Online Library image]()
+![Online Library image](https://github.com/user-attachments/assets/33bbad03-c1cc-42ba-a4bb-bd76bed02036)
 
 ## Installazione
 
