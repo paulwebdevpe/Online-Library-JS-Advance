@@ -6,7 +6,7 @@ Questa applicazione permette di cercare libri in base a una categoria specifica 
 
 ## Funzionalità
 
-- Effettua una chiamata API a Open Library in base a una categoria inserito dall'utente.
+- Effettua una chiamata API a Open Library in base a una categoria inserita dall'utente.
 - Mostra i libri trovati in base alla categoria specificata.
 - Fornisce la possibilità di visualizzare la descrizione di ogni libro tramite un pulsante "Get Info".
 
